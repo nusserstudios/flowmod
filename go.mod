@@ -1,4 +1,4 @@
-module github.com/nusserstudios/flowmod
+module github.com/nusserstudios/flowmod/m
 
 go 1.19
 
